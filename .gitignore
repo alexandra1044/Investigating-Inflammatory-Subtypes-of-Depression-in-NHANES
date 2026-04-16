@@ -1,3 +1,7 @@
+# NHANES data — raw XPT files and processed parquet files
+data/raw/
+data/processed/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
@@ -215,3 +219,6 @@ __marimo__/
 __MACOSX/
 .AppleDouble
 .LSOverride
+
+# if using claude code
+CLAUDE.MD
